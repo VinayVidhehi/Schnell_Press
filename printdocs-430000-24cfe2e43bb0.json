@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "printdocs-430000",
+  "private_key_id": "24cfe2e43bb0a55fab06f9ee3b4b45fdd94c8fd4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDeP7jgP0H9t62B\nGx/niItaVN4oKpL+ALwHT0GA5tBgv/MXGGoiYC5NQtytluyCxIq66THrGjVUMtEU\nlDIJ2ppBvYDECtnMfAlv1FOmvMfiJiA0X4/knPsg/hdB84woN19X+3B2Xnj6RaDq\nJ6MAqzqg0bCf4vXX+eZAp7h8FPauAZrsSas3/KybZktDp+t/TC2njRK5cGDiQJgQ\nqK4etUTkiBOps6NnlSjIvQY69h10rqDUdpeD5tm5XDRaTOx1kQE2WNhUokXVgf3w\nksuddqxfUwwT/LBNhLvNVqCIdyzKh/oH1WmU+CNQNT0xpirQgfOIK9WVjwv7l36R\nnDbkH2/pAgMBAAECggEAGscaNxigEpoGI2tZe3vZ8HMPxk6k4cpEXWwY9Bc7TaDr\nAOId7ZDhm0j+TkMEMZhNL8qHi3BfswqhYuWdJs9KLTgQMu6swcTDHVB7mLgfrDmU\nQUMvUufwIRBETJuzzCepyu++Y+Crmln30qaebubynCxPp+AAZ3qSWcFrirW66AmL\nd0HqX/OSl40DvbZBXerVaaonskNpGLDi+gGLwsP9eAVr0RGIrSZzbNNBFSHthRwI\nKKzb1bGnRr0u9+WuJJPvkgcHjMdCX8LF0G+sTG8whH2ho3ohL3uu5+M+sP476D+G\nbRXsS7IvSkqhdrDW3GTGYhChwwL9tHmgyH9KQLXuJQKBgQD2LRRgCF1a+Xyyt2EQ\n5BO8JYcTEyUtYFFvXSjAfA9bMgssPdQf9F/ncH/B+v+Bjp694gvXFrLOCpTSj6Ic\ngqu6DUqTNIh5Ivc/SCj1XBxp1voOxmynXQ5J53hM6zfXyYonEGXgm81gxOjj3STp\nYUz1LL9p0IbeprOCE2kT1Tt7HQKBgQDnHjQ2IAm0hu1WzuJ8Wr70CF8ggJPDQa1r\nzHyviC9T1VPGmqcNrUCyfcCIKpDDZtvVupi1E+S4y5PeBjPcQIpAs6h1jTOod4gw\ncFOSm0VmHcbZnum+wfW09ybbUYxNKrPeDP34VW2cgfKPchQouwajux6/R7PWGwBM\nFMQc9HpiPQKBgQCpHaLnrhdkDgyKQcwe7HBaSnWWtwpNN+P520fJo/Bwt9pRFFCL\nezf/KJu7yRCKEk4fKBD2PBOt1DsUw7OcXnBWqhbXNbmjbk/oW0w38oVaeGLkj4/J\nEfZk8u0D+nssdLnByFQUjzPyDJPpJdzbrwpNS+ZbbPOaNW8QJwGCrHPmSQKBgFYr\nscXYbiXsBMPQASviXb34/RbOOcmcTD+cD4UW3qaALGspME3uIegq8MUUMcNZL2/h\n0Zv6HdY0uR4X6/Ab9DApjA7AJdmTL6j3yIEp+VcYlRKAqKAiCy181PUC06/V0xhg\nebTEjUjEPp7zJscE7HXRh6ZD4q5ahOLY/0HYeWT1AoGAIofnXdkqehpzbHHUhY+A\nCXCZcVp+n9lHCMK9iHtvhyfrZKh/zjbfwGE4E6EUO9ziH7b8ZmNFkK5u1SVzZ7YX\n/JwGJrttrN73niiDbkIPCyvbLlrOVG2SF3TZT2l0BryyYtu1dabVcbbBV3rEz1LI\nJYb7TlqTgJUMwSkp+9y0kTM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "schnellpress@printdocs-430000.iam.gserviceaccount.com",
+  "client_id": "117836743980701814181",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/schnellpress%40printdocs-430000.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
